@@ -1,3 +1,4 @@
+remote_theme : mmistakes/hpstr-jekyll-theme
 title:            Site Title
 description:      Describe your website here.
 disqus_shortname:
